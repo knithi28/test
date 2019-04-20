@@ -6,4 +6,3 @@ python hello.py
 
 echo "Execution End"
 echo "===================================================="
-echo "update"
